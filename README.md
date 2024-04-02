@@ -1,4 +1,4 @@
-# Project Name-My-first-data-Analysis-repo
+# Project Name: My-first-data-Analysis-repo
 
 ----
 # Project Objective: Problem Statement
